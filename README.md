@@ -1,2 +1,9 @@
 # Sprites
-I'm messing around with a private Showdown client and server for fun. The only way I could find to add custom sprites to it was the way the [Pokémon Insurgence Showdown](http://insurgence-battle-sim.nl:8001/?~~insurgence-battle-sim.nl:8000#) did.
+
+Navigation: [Server repository][1] | [Client repository][2] | **Sprite repository**
+
+  [1]: https://github.com/BabyGrootTheEpic/Insurgence-Showdown
+  [2]: https://github.com/BabyGrootTheEpic/Insurgence-Client
+
+
+Sprites for my fork of the Pokémon Insurgence Showdown.
